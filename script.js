@@ -1,4 +1,4 @@
-var parrafos = document.getElementsByTagName("p");
+var parrafos = document.getElementsByClassName("tridi");
 
 function textoTresDe(e) {
     var event = e || window.event;
