@@ -9,7 +9,7 @@ function textoTresDe(e) {
     var i=0;
     var j=0;
     var divicion=0;
-    var color= "#997A00";
+    var color= "#401123";
     var rShadow="10";
     
     var tox = Math.floor((coordenadaX-(resolucionX/2))/16);
